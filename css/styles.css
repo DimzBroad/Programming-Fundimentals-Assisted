@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #34495E;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 20px;
+    
+}
+
+h1 {
+    font-size: 35px;
+}
+
+main {
+    display: flex;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.generator {
+    box-sizing: border-box;
+    background-color: #ffffff;
+    margin: auto;
+    border: 2px solid #ffffff;
+    border-radius: 25px;
+    padding-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    
