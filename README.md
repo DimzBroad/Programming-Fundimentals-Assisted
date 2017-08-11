@@ -26,4 +26,6 @@ I wanted the user to be able to select a specific password character length, I w
         [•] Create CHECKBOX. If the checkbox is checked, the generated password will include both characters and numbers.    
 
 
+Link: https://dimzbroad.github.io/Programming-Fundimentals-Assisted/.
+
 
